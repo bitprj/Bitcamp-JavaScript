@@ -1,4 +1,4 @@
-## **Bitcamp-Twilio**
+## **Bitcamp-javascript**
 
 Learn about the versatility and power of the Javascript programming language, with a developer advocate from Twilio!
 
@@ -17,3 +17,29 @@ Learning Javascript gives you the ability to interact with all sorts of online t
 Students will quest online together through Space! The [TwilioQuest](https://www.twilio.com/quest/learn/javascript) modules online are excellent resources that you can follow along with during our weekly live sessions and ask questions of our experienced staff.
 
 Between live streams, there will be original take-home assignments that enforce the learnings from the modules and help you venture into your own future journeys through space and the Javascript universe!
+
+
+## Learning Objectives:
+
+### **Week 1**
+
+System setup and starting your journey!
+
+**Objective: *Suit up and Set off to Space!***
+
+- Enviornment setup
+- Defining all the components and terms
+    - TwilioQuest, Javascript, editor
+- Initial few quests (hello world equivilent)
+
+**Homework**
+
+- Add on to your javascript code
+  - Finding some boilerplate functions online
+  - Learning the components
+  - Building your own
+
+
+### **Week 2**
+
+ ...
