@@ -5,7 +5,6 @@ const numericValue = Number(argumentValue);
 // For every number 1 ... numericValue:
 var i;
 for (i = 1; i <= numericValue; i ++) {
-
   // if number is divisible by 3 but not 5, print 👽
   if (i % 3 == 0 && i % 5 != 0) {
     console.log("👽 " + i);
