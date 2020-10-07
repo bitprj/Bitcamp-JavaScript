@@ -17,6 +17,7 @@ for (i = 1; i <= numericValue; i ++) {
   } else if (i % 3 == 0 && i % 5 == 0) {
     console.log("🛰 " + i);
 
+    //adding something so i can try to push this thing
   // if number is not divisible by either 3 or 5, print 💩
   } else {
     console.log("💩 " + i);
