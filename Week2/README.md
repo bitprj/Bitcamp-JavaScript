@@ -1,8 +1,9 @@
 # Week 2
 
-### Project Title: 
+### Project Title: Array Fun
 
-### Project Description:
+### Project Description: 
+Creating functions, looping through arrays, and passing parameters.
 
 ### Learning Outcomes
 - Get comfortable with JavaScript syntax for: 
