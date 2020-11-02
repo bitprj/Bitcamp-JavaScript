@@ -22,7 +22,7 @@
 
 In the livestream, we're going to be going over how to set up your computer to write javascript and how to use GitHub (the basics).
 
-- For the full video, look in the [video folder](https://github.com/bitprj/Bitcamp-javascript/blob/main/week1/livestream/loom.md).
+- For the full video, look in the [video folder](https://github.com/bitprj/Bitcamp-javascript/blob/main/Week1/livestream/loom.md).
 - For the full code, look in the [code folder](https://github.com/bitprj/Bitcamp-javascript/tree/main/week1/homework/code/solution).
 
 We'll be going over how to:
