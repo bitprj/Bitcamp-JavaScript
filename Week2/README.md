@@ -17,16 +17,14 @@
 
 ### Livestream
 
-In the livestream, we're going to be going over how to set up your computer to write javascript and how to use GitHub (the basics).
-
-- For the full video, look in the [video folder](https://github.com/bitprj/Bitcamp-javascript/blob/main/Week2/livestream/loom.md).
-- For the full code, look in the [code folder](https://github.com/bitprj/Bitcamp-javascript/tree/main/Week2/homework/code/solution).
-
 We'll be going over how to:
 
 1. Write loops in javascript
 2. Write functions in javascript
 3. Work with strings in javaScript
+
+- For the full video, look in the [video folder](https://github.com/bitprj/Bitcamp-javascript/blob/main/Week2/livestream/loom.md).
+- For the full code, look in the [code folder](https://github.com/bitprj/Bitcamp-javascript/tree/main/Week2/homework/code/solution).
 
 
 ### Homework
