@@ -42,16 +42,12 @@ function romanToInt(romanString) {
 
 }
 
-// console.log(romanToInt(""));
-// console.log(romanToInt("I"));
-// console.log(romanToInt("IV"));
-// console.log(romanToInt("XIV"));
-// console.log(romanToInt("XXVII"));
-
-
-
-
-
+// Test cases:
+console.log(romanToInt(""));
+console.log(romanToInt("I"));
+console.log(romanToInt("IV"));
+console.log(romanToInt("XIV"));
+console.log(romanToInt("XXVII"));
 
 
 // returns words from int value, ex. 17: seventeen, 9: nine
