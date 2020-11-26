@@ -1,1 +1,1 @@
-Videos will be uploaded here after being streamed
+[Intro to JavaScript Week 2](https://www.youtube.com/watch?v=VHiFSuhhgC0&ab_channel=BitProject)

@@ -1,1 +1,1 @@
-Videos will be uploaded here after being streamed
+[Intro to JavaScript Week 1](https://youtu.be/w_kB43gwov8)
